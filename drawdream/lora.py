@@ -308,7 +308,7 @@ def inject_trainable_lora_extended(
     return require_grad_params, names
 
 
-nn.Module
+
 
 
 def extract_lora_ups_down(model, target_replace_module=DEFAULT_TARGET_REPLACE):
